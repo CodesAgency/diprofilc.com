@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#containerForm{
+    background-color: rgba(224, 224, 224, 0.575);
+    transition: ease all 1s;
+    border: solid 1px whitesmoke;
+}
+#containerForm:hover{
+    transition: ease all 0.5s;
+    box-shadow: 2px 2px 8px rgba(32, 32, 32, 0.719);
+    border-radius: 20px;
+    
+
+}
+
+#bgContainerForm{
+    height: 800px;
+    background-image: url(loaderIMG/17.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+display: flex;
+align-items: center;
+}
+
+#miniFooter{
+    text-align: center;
+}

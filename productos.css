@@ -1,0 +1,101 @@
+#anntracita {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    border-radius: 10px;
+}
+
+#paragraphAntracita {
+    width: 350px;
+    height: auto;
+    transition: ease all 1s;
+}
+
+.carbonAnt {
+    color: steelblue;
+    text-decoration: underline;
+}
+
+#imgAntracita {
+    padding: 15px;
+    background-color: rgba(100, 100, 100, 0.192);
+    transition: ease all 1s;
+}
+
+#imgSilicica {
+    padding: 15px;
+    background-color: rgba(100, 100, 100, 0.192);
+    transition: ease all 1s;
+}
+
+#gloveAntracita {
+    z-index: 100;
+    display: none;
+    transition: ease all 1s;
+}
+
+#gloveSilicica {
+    z-index: 100;
+    display: none;
+    transition: ease all 1s;
+}
+
+#arenaSilisica {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+#gloveAcero {
+    z-index: 100;
+    display: none;
+    transition: ease all 1s;
+}
+
+#conosAcero {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+#helpus {
+    background-color: rgba(128, 128, 128, 0.274);
+    height: auto;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: ease all 0.5s;
+}
+
+#helpus:hover {
+    background-color: rgba(12, 80, 109, 0.274);
+    transition: ease all 0.5s;
+}
+
+#imgConAncero {
+    padding: 15px;
+    background-color: rgba(100, 100, 100, 0.192);
+    transition: ease all 1s;
+}
+
+hr {
+    border-style: dashed;
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+a:hover {
+    color: aquamarine;
+    text-decoration: none;
+}
+
+#pedForm {
+    color: steelblue;
+}

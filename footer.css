@@ -1,0 +1,83 @@
+#footer {
+    margin-top: 0px;
+    background-color: rgb(0, 50, 107);
+    height: auto;
+    color: whitesmoke;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px;
+}
+
+#contacts {
+    padding: 15px;
+}
+
+.redes {
+    width: 50px;
+    height: 50px;
+    background-image: url(icos/whatsapp.png);
+    background-size: 50px auto;
+}
+
+#whatsapp {
+    display: flex;
+    justify-content: stretch;
+}
+
+#mail {
+    display: flex;
+    justify-content: stretch;
+}
+
+.mail {
+    width: 50px;
+    height: 50px;
+    background-image: url(icos/mail.png);
+    background-size: 50px auto;
+    background-repeat: no-repeat;
+}
+
+#sitio {
+    display: flex;
+    justify-content: stretch;
+}
+
+.sitio {
+    width: 40px;
+    height: 60px;
+    background-image: url(icos/sitio.png);
+    background-size: 35px auto;
+    background-repeat: no-repeat;
+}
+
+#phone {
+    font-size: 18pt;
+    margin-left: 10px;
+}
+
+#phone2 {
+    font-size: 18pt;
+    margin-left: 10px;
+}
+
+#phone3 {
+    font-size: 18pt;
+    margin-left: 10px;
+}
+
+.contacts {
+    width: 320px;
+}
+
+#btn {
+    width: 150px;
+}
+
+#marcaRegistrada {
+    background-color: rgb(0, 140, 255);
+    color: rgb(31, 31, 31);
+    text-align: center;
+    padding: 10px;
+}

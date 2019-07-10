@@ -1,0 +1,180 @@
+#transp {
+    background-image: url(imgs/1807.jpg);
+    height: 450px;
+    background-size: 75% 100%;
+    background-repeat: no-repeat;
+}
+
+#especificaciones {
+    width: 350px;
+    height: 495px;
+    background-color: #1e4d83;
+    float: right;
+    margin-top: -25px;
+    box-shadow: 5px 5px 10px rgba(71, 71, 71, 0.781);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-bottom: solid 7px #00e1ff;
+}
+
+.list-group .list-group-item {
+    color: rgb(224, 224, 224);
+    background-color: transparent;
+}
+
+#h3 {
+    color: antiquewhite;
+    text-align: center;
+}
+
+#title-history {
+    display: flex;
+    justify-content: stretch;
+}
+
+#ico-history {
+    background-image: url(icos/circulares_icono_destaque-300x200.png);
+    width: 90px;
+    height: 75px;
+    background-size: 100px auto;
+    background-repeat: no-repeat;
+}
+
+#ico-trab {
+    background-image: url(icos/infraestructura.png);
+    width: 75px;
+    height: 75px;
+    background-size: 75px 75px;
+    margin-right: 20px;
+    left: -50px;
+}
+
+#ico-site {
+    background-image: url(icos/ubicacion-azul1.png);
+    width: 75px;
+    height: 75px;
+    background-size: 75px 75px;
+    margin-right: 10px;
+}
+
+#titleCapEquip3 {
+    display: flex;
+    justify-content: stretch;
+    align-items: center;
+}
+
+#titleCapEquip {
+    display: flex;
+    justify-content: stretch;
+    align-items: center;
+}
+
+
+/*MAPA DEL ECUADOR*/
+
+#map {
+    border-top: solid 7px #00e1ff;
+    ;
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 0px 5px 15px rgba(66, 66, 66, 0.822);
+    position: relative;
+}
+
+#l1a,
+#l2a,
+#l3a,
+#l4a,
+#l5a,
+#l1b,
+#l2b,
+#l3b,
+#l4b,
+#l5b,
+#l6b,
+#l7b {
+    color: gray;
+    transition: ease all 0.5s;
+    cursor: pointer;
+    font-size: 12pt
+}
+
+#l1a,
+#l2a,
+#l3a,
+#l4a,
+#l5a {
+    text-align: left;
+}
+
+#l1b,
+#l2b,
+#l3b,
+#l4b,
+#l5b,
+#l7b,
+#l6b {
+    text-align: right;
+}
+
+#l1a:hover {
+    color: rgb(20, 141, 255);
+    transition: ease all 0.5s;
+}
+
+#l2a:hover {
+    color: rgb(20, 141, 255);
+    transition: ease all 0.5s;
+}
+
+#l3a:hover {
+    color: rgb(20, 141, 255);
+    transition: ease all 0.5s;
+}
+
+#l4a:hover {
+    color: rgb(20, 141, 255);
+    transition: ease all 0.5s;
+}
+
+#l1b:hover {
+    color: rgb(20, 141, 255);
+    transition: ease all 0.5s;
+}
+
+#l2b:hover {
+    color: rgb(20, 141, 255);
+    transition: ease all 0.5s;
+}
+
+#l3b:hover {
+    color: rgb(20, 141, 255);
+    transition: ease all 0.5s;
+}
+
+#l4b:hover {
+    color: rgb(20, 141, 255);
+    transition: ease all 0.5s;
+}
+
+#l5b:hover {
+    color: rgb(20, 141, 255);
+    transition: ease all 0.5s;
+}
+
+#l6b:hover {
+    color: rgb(20, 141, 255);
+    transition: ease all 0.5s;
+}
+
+#l7b:hover {
+    color: rgb(20, 141, 255);
+    transition: ease all 0.5s;
+}
+
+
+/*/MAPA DEL ECUADOR*/

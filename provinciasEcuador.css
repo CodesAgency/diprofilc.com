@@ -1,0 +1,133 @@
+#guayas {
+    position: absolute;
+    margin-top: 125px;
+    margin-left: 28px;
+    background-image: none;
+    width: 85px;
+    height: 125px;
+    /*border: solid 2px blue;*/
+    background-repeat: no-repeat;
+}
+
+#santaElena {
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 3px;
+    background-image: none;
+    width: 50px;
+    height: 55px;
+    /*border: solid 2px blue;*/
+    background-repeat: no-repeat;
+}
+
+#elOro {
+    position: absolute;
+    margin-top: 243px;
+    margin-left: 45px;
+    background-image: none;
+    width: 55px;
+    height: 55px;
+    /*border: solid 2px blue;*/
+    background-repeat: no-repeat;
+}
+
+#manabi {
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 10px;
+    background-image: none;
+    width: 90px;
+    height: 125px;
+    /*border: solid 2px blue;*/
+    background-repeat: no-repeat;
+}
+
+#cañar {
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 84px;
+    background-image: none;
+    width: 57px;
+    height: 35px;
+    /*border: solid 2px blue;*/
+    background-repeat: no-repeat;
+}
+
+#cotopaxi {
+    position: absolute;
+    margin-top: 98px;
+    margin-left: 94px;
+    background-image: none;
+    width: 57px;
+    height: 60px;
+    /*  border: solid 2px blue;*/
+    background-repeat: no-repeat;
+}
+
+#imbabura {
+    position: absolute;
+    margin-top: 35px;
+    margin-left: 110px;
+    background-image: none;
+    width: 68px;
+    height: 60px;
+    /*  border: solid 2px blue;*/
+    background-repeat: no-repeat;
+}
+
+#bolivar {
+    position: absolute;
+    margin-top: 143px;
+    margin-left: 91px;
+    background-image: none;
+    width: 35px;
+    height: 60px;
+    /* border: solid 2px blue; */
+    background-repeat: no-repeat;
+}
+
+#azuay {
+    position: absolute;
+    margin-top: 217px;
+    margin-left: 72px;
+    background-image: none;
+    width: 75px;
+    height: 60px;
+    /* border: solid 2px blue; */
+    background-repeat: no-repeat;
+    background-size: 70px auto;
+}
+
+#loja {
+    position: absolute;
+    margin-top: 258px;
+    margin-left: 30px;
+    background-image: "none";
+    width: 90px;
+    height: 80px;
+    /*border: solid 2px blue;*/
+    background-repeat: no-repeat;
+}
+
+#pichincha {
+    position: absolute;
+    margin-top: 64px;
+    margin-left: 92px;
+    background-image: none;
+    width: 90px;
+    height: 60px;
+    /*border: solid 2px blue;*/
+    background-repeat: no-repeat;
+}
+
+#interactiveData {
+    height: auto;
+    width: auto;
+}
+
+#interactiveDataMap {
+    width: 35px;
+    height: 35px;
+    background-color: aqua;
+    position: relative;
+}

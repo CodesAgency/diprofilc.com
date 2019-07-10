@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.dropdown-menu{
+    border-top: solid 7px rgb(29, 204, 248);
+}
+#containerNav{
+    border-bottom: solid 2px rgb(29, 204, 248);
+}
+
+.box{
+    width: 25px;
+    height: 25px;
+    background: rgb(29, 204, 248);
+    margin-right: 12px;
+}
+
+.idHistory{
+    display: flex;
+    align-items: center;
+    color: rgb(94, 94, 94);
+
+}
+    .carousel-caption{
+        background-color: rgba(0, 0, 0, 0.582);
+        border-radius: 5px;
+        border-bottom: solid 2px rgb(29, 204, 248);
+    
+    }
+
+
+    @media (max-width: 600px){
+        .jumbotron h1{
+            font-size: 18pt;
+            font-weight: bold;
+        }
+        .jumbotron p{
+            font-size: 11pt;
+            text-align: justify;
+        }
+        .idHistory h3{
+            font-size: 14pt;
+            
+        }
+        .idHistory{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .box{
+            margin-top: -8px;
+            width: 20px;
+            height: 20px;
+
+        }
+        #imagenLogo{
+            width: 125px;
+            margin:0px;
+        }
+    }
+
+    .contactS{
+        color: aliceblue;
+    }
